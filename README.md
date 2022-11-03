@@ -4,6 +4,7 @@
 #### Create an (POST) api endoint that takes the following sample json
 
 { “operation_type”: Enum <addition | subtraction | multiplication> , “x”: Integer, “y”: Integer }
+<br>
 Operation can either be addition, subtraction or mutiplication
 <br>
 x can be a number and Integer datatype
